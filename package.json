@@ -1,5 +1,5 @@
 {
-  "name": "repo-gen-common",
+  "name": "@openfoxes-repo-gen/repo-gen-common",
   "version": "0.0.0",
   "description": "Shared interfaces and methods for repo generators",
   "homepage": "https://github.com/OpenFoxes-Repo-Generators/common#readme",
