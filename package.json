@@ -1,0 +1,20 @@
+{
+  "name": "repo-gen-common",
+  "version": "0.0.0",
+  "description": "Shared interfaces and methods for repo generators",
+  "homepage": "https://github.com/OpenFoxes-Repo-Generators/common#readme",
+  "bugs": {
+    "url": "https://github.com/OpenFoxes-Repo-Generators/common/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OpenFoxes-Repo-Generators/common.git"
+  },
+  "license": "GPL-3.0",
+  "author": "Bono Fox",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
